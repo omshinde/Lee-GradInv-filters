@@ -4,12 +4,13 @@ This project implements Lee and Gradient-inverse filters which are used in image
 ### Description
 The pre-processing operations of an image include smoothing, averaging, noise-reduction _et cetera_.
 This operation can be performed on:
-* Full image i.e. Global operation
-* Sub-part of image i.e. local operation
+ * Full image i.e. Global operation
+ * Sub-part of image i.e. local operation
+ 
 The local operations are performed using Kernels. This kernels are pre-defined.
 To obtain output, kernel is convolved with input image. This project processes input image using:
-* **Lee filter**
-* **Gradient-Inverse filter**
+ * **Lee filter**
+ * **Gradient-Inverse filter**
 
 
 ### How to run the code?
