@@ -6,6 +6,11 @@ The pre-processing operations of an image include smoothing, averaging, noise-re
 This operation can be performed on:
 * Full image i.e. Global operation
 * Sub-part of image i.e. local operation
+The local operations are performed using Kernels. This kernels are pre-defined.
+To obtain output, kernel is convolved with input image. This project processes input image using:
+* **Lee filter**
+* **Gradient-Inverse filter**
+
 
 ### How to run the code?
 Open _SIP_Project.m_ using **MATLAB** in your personal computer. A graphical-user interface will appear. Perform the required operations
