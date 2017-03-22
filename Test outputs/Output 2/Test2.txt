@@ -1,0 +1,8 @@
+The outputs are obtained for following specifications :
+
+1. Output of Lee filter
+	Window size- 5*5
+	Weighing Function for Lee filter- 3
+2. Output of Gradient-Inverse filter
+	Window size- 5*5
+	Weight of center pixel- 0.7
