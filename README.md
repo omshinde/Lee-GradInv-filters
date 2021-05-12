@@ -7,7 +7,7 @@ This operation can be performed on:
  * Full image i.e. Global operation
  * Sub-part of image i.e. local operation
  
-The local operations are performed using Kernels. This kernels are pre-defined.
+The local operations are performed using Kernels. These kernels are pre-defined.
 To obtain output, kernel is convolved with input image. This project processes input image using:
  * **Lee filter**
  * **Gradient-Inverse filter**
